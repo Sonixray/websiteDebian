@@ -1,0 +1,34 @@
+.content {
+    display: flex;
+    flex-direction: column;
+}
+
+div {
+    margin-top: 0;
+}
+
+#histoire {
+    justify-content: flex-start;
+    padding-left: 20px;
+    padding-right: 20px;
+    width: 50%;
+    background-color: #95A0DA;
+}
+
+.row {
+    display: flex;
+    flex-direction: row;
+}
+
+/* .chaineVal {
+    padding: 20px 30px 20px;
+} */
+
+.helt {
+    text-align: center;
+}
+
+.cimg {
+    width: 100%;
+    height: auto;
+}
